@@ -278,12 +278,14 @@ a:focus {
 .row-no-gutters {
     margin-right: 0;
     margin-left: 0;
+    padding: 0;
 }
 
 .row.row-no-gutters > [class^="col-"],
 .row.row-no-gutters > [class*=" col-"] {
     padding-right: 0;
     padding-left: 0;
+    list-style-type: none;
 }
 
 #bloc-1-hero h1 {
