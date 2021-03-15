@@ -1077,7 +1077,11 @@ h4 {
 }
 .cite{
     align-self: center;
+    color: #333333;
 }
 #color-orange, #color-orange2{
     color: #F3976C !important;
+}
+#color-white {
+    color: white !important;
 }
