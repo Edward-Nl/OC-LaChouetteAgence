@@ -703,7 +703,7 @@ p {
 
 .social {
     max-width: 400px;
-    margin: auto auto auto auto;
+    margin: 15px auto 15px auto;
 }
 
 h2 {
@@ -1084,4 +1084,5 @@ h4 {
 }
 #color-white {
     color: white !important;
+    font-weight: 600;
 }
