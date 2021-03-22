@@ -126,7 +126,6 @@ a:focus {
 .d-bloc .navbar a,
 .d-bloc .navbar-brand,
 .d-bloc a .icon-sm,
-.d-bloc a .icon-md,
 .d-bloc a .icon-lg,
 .d-bloc a .icon-xl,
 .d-bloc h1 a,
@@ -702,7 +701,7 @@ p {
 }
 
 .social {
-    margin: 15px auto 15px auto;
+    margin: 35px auto 35px auto;
 }
 
 h2 {
