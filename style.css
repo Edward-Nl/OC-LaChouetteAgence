@@ -703,6 +703,9 @@ p {
 .social {
     margin: 35px auto 35px auto;
 }
+.social:hover  {
+    text-decoration: none;
+}
 
 h2 {
     font-size: 22px;
@@ -1101,4 +1104,8 @@ h4 {
     .text3{
         width: 60%;
     }
+}
+.social-2{
+    display: flex !important;
+    flex-direction: column;
 }
