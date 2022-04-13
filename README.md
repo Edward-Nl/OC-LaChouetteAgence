@@ -1,6 +1,6 @@
 # Projet de cours OpenClassrooms La Chouette Agence.  
 Projet de formation développeur web  
-## Langages utilisés  
+## Techno utilisés  
 * Html
 * Css
 * Bootstrap  
